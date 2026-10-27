@@ -1,6 +1,6 @@
 ## Hi there 👋
+My name is Axel Gutierrez, i’m from Mexico and I study at the National Autonomous University of Mexico—known by its abbreviation, UNAM. I’m pursuing a degree in Mathematics for Development; it’s super interesting and I really enjoy it. It’s quite difficult, to be honest, but it’s definitely doable. I’m a huge fan of gambling games and *Game of Thrones*, and—long live Vegetta777 and the Lord Jesus Christ!
 
-<!--
 **GAxelTGutierrez777/GAxelTGutierrez777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
